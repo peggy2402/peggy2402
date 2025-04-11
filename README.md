@@ -1,11 +1,6 @@
-<h1 align="center">Hi! I'm a Dev 🐾</h1>
-
+<h1 align="center">Hi! I'm Tran Van Chien aka Peggy 🐾</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="cat gif">
-</p>
-
-<p align="center">
-  <img src="https://wallpaperaccess.com/full/1959307.jpg" width="300" alt="cute cat">
+  <img src="https://i1.wp.com/64.media.tumblr.com/957b3bad3626f8dab310d6d29465752e/tumblr_pkrq5zrdmS1vxu8cl_1280.gifv" alt="chill">
 </p>
 
 ---
