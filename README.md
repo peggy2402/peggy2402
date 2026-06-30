@@ -6,11 +6,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&letterSpacing=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Full-stack+Developer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&letterSpacing=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Mobile+App+Developer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&letterSpacing=60&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%8C%9F+AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Full-stack+Developer;%F0%9F%9A%80+Mobile+App+Developer;%F0%9F%8C%9F+AI+Enthusiast)](https://git.io/typing-svg)
 
 </p>
 
