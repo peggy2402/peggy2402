@@ -5,9 +5,7 @@
 </p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FFFFFF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Full-stack+Developer;%F0%9F%9A%80+Mobile+App+Developer;%F0%9F%8C%9F+AI+Enthusiast"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=1500&pause=700&color=58A6FF&center=true&vCenter=true&width=480&lines=%F0%9F%92%BB+Full-stack+Developer;%F0%9F%9A%80+Mobile+App+Developer;%F0%9F%8C%9F+AI+Enthusiast"/>
 </div>
 
 ---
