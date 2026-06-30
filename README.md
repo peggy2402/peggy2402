@@ -43,8 +43,8 @@ Analyze YouTube trending videos and discover viral content.
 
 **Tech Stack**
 
-- Next.js
-- Node.js
+- Laravel Framework
+- MySQL
 - YouTube API
 
 ---
@@ -57,8 +57,7 @@ League of Legends account rental platform.
 
 **Tech Stack**
 
-- React
-- Node.js
+- NextJS
 - MongoDB
 
 ---
@@ -71,9 +70,8 @@ Household goods selling platform.
 
 **Tech Stack**
 
-- React
-- ASP.NET
-- SQL Server
+- Laravel Framework
+- MySQL
 
 ---
 
@@ -85,9 +83,8 @@ Hotel management system.
 
 **Tech Stack**
 
-- ASP.NET MVC
+- .NET Framework
 - SQL Server
-- Bootstrap
 
 ---
 
@@ -97,6 +94,7 @@ Hotel management system.
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
