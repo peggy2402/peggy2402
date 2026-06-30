@@ -4,11 +4,11 @@
   <img src="https://i1.wp.com/64.media.tumblr.com/957b3bad3626f8dab310d6d29465752e/tumblr_pkrq5zrdmS1vxu8cl_1280.gifv" alt="chill">
 </p>
 
-<p align="center">
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=28&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&lines=%F0%9F%92%BB+Full-stack+Developer;%F0%9F%9A%80+Mobile+App+Developer;%F0%9F%8C%9F+AI+Enthusiast)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=FFFFFF&center=true&vCenter=true&width=450&lines=%F0%9F%92%BB+Full-stack+Developer;%F0%9F%9A%80+Mobile+App+Developer;%F0%9F%8C%9F+AI+Enthusiast"/>
 
-</p>
+</div>
 
 ---
 
