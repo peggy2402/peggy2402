@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Chien AKA Peggy 🐾</h1>
+<h1 align="center">Hi! I'm Chien aka Peggy 🐾</h1>
 
 <p align="center">
   <img src="https://i1.wp.com/64.media.tumblr.com/957b3bad3626f8dab310d6d29465752e/tumblr_pkrq5zrdmS1vxu8cl_1280.gifv" alt="chill">
